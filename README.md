@@ -1,2 +1,2 @@
 # hello-java
-my personal experience on learning java..
+my path on learning Java...
